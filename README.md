@@ -1,3 +1,3 @@
 # natours-float-practice
-## DENO PAGE
+## DEMO PAGE
 https://ericboy0224.github.io/
